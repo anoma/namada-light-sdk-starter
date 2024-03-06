@@ -1,1 +1,1 @@
-# Namada SDK Starter
+# Namada Light SDK Starter
